@@ -21,8 +21,8 @@ Primero tengo un array llamado namelist, en este array yo tengo dos tipos de var
 
 En el código hay otra variable llamada fullname(array) y size que tiene un tamaño de la lista. En él
 ciclo FOR creo una variable i que es igual a 0, he incrementa en uno en uno. Dentro del ciclo For cre una
-variable element que us igual aa namelist en la posición [i] de la varible name y la misma variable en la 
-posición [I] de la varible lastname, todo esto es enviado al array fullname.
+variable element que es igual a namelist en la posición [i] de la varible name y la misma variable en la 
+posición [i] de la varible lastname, todo esto es enviado al array fullname.
 Finalmente este muestra en consola la variable fullname.
 
 MI CODIGO
